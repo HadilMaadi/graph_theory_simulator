@@ -8,17 +8,6 @@ Groupe 3 | ID4 | 2025-2026
 Théorie des Graphes -- Semestre 1
 
 Prof. Zaouche Djaouida
-
--------------------------------------------------
-
-Etudiantes :
-
-Hadil Maadi -- maadihadil@cy-tech.fr
-Maeva Rechak-Lambert -- rechaklamb@cy-tech.fr
-Rafaelle Bueno -- buenorafae@cy-tech.fr
-Tiphaine Brun -- bruntiphai@cy-tech.fr
-Natasha Litherland -- litherland@cy-tech.fr
-
 -------------------------------------------------
 
 Description du Projet :
