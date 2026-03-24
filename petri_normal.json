@@ -1,0 +1,41 @@
+{
+    "places": [
+        "P1",
+        "P2"
+    ],
+    "transitions": [
+        "T1"
+    ],
+    "input_arcs": {
+        "T1": {
+            "P1": {
+                "blue": 1
+            }
+        }
+    },
+    "output_arcs": {
+        "T1": {
+            "P2": {
+                "blue": 1
+            }
+        }
+    },
+    "jeton_status": {
+        "P1": [
+            "blue",
+            "blue"
+        ],
+        "P2": [
+            "blue",
+            "blue",
+            "blue",
+            "red",
+            "red",
+            "red"
+        ]
+    },
+    "capacity": {
+        "P1": "inf",
+        "P2": "inf"
+    }
+}
